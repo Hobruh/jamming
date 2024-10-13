@@ -1,0 +1,38 @@
+
+.playlistbox {
+    display: flex;
+    justify-content: flex-start;
+
+}
+.playlist {
+    border: 1px solid black;
+    background-color: lightgray;
+}
+.playlistText {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.list {
+    border: 1px solid black;
+    background-color: rgba(161, 48, 161, 0.42);
+    height: 50em;
+    width: 20em;
+}
+.tracklist {
+    border: 1px solid black;
+    background-color: lightgray;
+}
+.tracklistText {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.tracks {
+    border: 1px solid black;
+    background-color: rgba(161, 48, 161, 0.42);
+    height: 50em;
+    width: 20em;
+}

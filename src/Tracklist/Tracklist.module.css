@@ -1,0 +1,12 @@
+.tracklistBox {
+    display: flex;
+    justify-content: flex-end;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+.tracklist {
+    border: 1px solid black;
+    background-color: rgba(161, 48, 161, 0.42);
+    height: 50em;
+    width: 20em;
+}
