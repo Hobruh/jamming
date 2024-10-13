@@ -13,6 +13,13 @@
   }
 }
 
+.lists {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 10px solid red;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
