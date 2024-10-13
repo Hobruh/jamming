@@ -1,5 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
+import SearchBar from './SearchBar';
+import SearchResults from './SearchResults';
+import Playlist from './Playlist';
+import Tracklist from './Tracklist';
+import Track from './Track';
 
 function App() {
   return (
